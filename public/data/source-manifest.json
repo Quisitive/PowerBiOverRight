@@ -1,0 +1,98 @@
+{
+  "copiedAt": "2026-05-08T19:59:18.162Z",
+  "sourceRoot": "C:\\Users\\CFoulon\\OneDrive - Quisitive\\Greg Richards's files - PBIX files\\TLC_demoTactical",
+  "csvSourcePath": "C:\\Users\\CFoulon\\OneDrive - Quisitive\\Greg Richards's files - PBIX files\\TLC_demoTactical\\data",
+  "pbixFileName": "customer_Tactical_v1b.pbix",
+  "files": [
+    {
+      "name": "EntraDevices.csv",
+      "size": 4719,
+      "modifiedUtc": "2026-05-08T19:33:21.000Z",
+      "source": "csv"
+    },
+    {
+      "name": "EntraFIDO2passkeys.csv",
+      "size": 1241,
+      "modifiedUtc": "2026-05-08T19:33:21.000Z",
+      "source": "csv"
+    },
+    {
+      "name": "EntraGroups.csv",
+      "size": 27285,
+      "modifiedUtc": "2026-05-08T19:33:30.000Z",
+      "source": "csv"
+    },
+    {
+      "name": "EntraLicenseAssignments-v2.csv",
+      "size": 7585,
+      "modifiedUtc": "2026-05-08T19:33:30.000Z",
+      "source": "csv"
+    },
+    {
+      "name": "EntraMFAregistrations.csv",
+      "size": 11881,
+      "modifiedUtc": "2026-05-08T19:33:30.000Z",
+      "source": "csv"
+    },
+    {
+      "name": "EntraProductList.csv",
+      "size": 296,
+      "modifiedUtc": "2026-05-08T19:33:31.000Z",
+      "source": "csv"
+    },
+    {
+      "name": "EntraRegistrationsResetEvents.csv",
+      "size": 6237,
+      "modifiedUtc": "2026-05-08T19:33:31.000Z",
+      "source": "csv"
+    },
+    {
+      "name": "EntraUsers.csv",
+      "size": 156615,
+      "modifiedUtc": "2026-05-08T19:33:31.000Z",
+      "source": "csv"
+    },
+    {
+      "name": "export_PIM-UnresolvedPrincipals.csv",
+      "size": 5305,
+      "modifiedUtc": "2026-05-08T19:33:31.000Z",
+      "source": "csv"
+    },
+    {
+      "name": "export_PIMroles.csv",
+      "size": 15450,
+      "modifiedUtc": "2026-05-08T19:33:32.000Z",
+      "source": "csv"
+    },
+    {
+      "name": "Guest_Sponsor_Relationships.csv",
+      "size": 1311,
+      "modifiedUtc": "2026-05-08T19:33:32.000Z",
+      "source": "csv"
+    },
+    {
+      "name": "Guests_With_Sponsors.csv",
+      "size": 4236,
+      "modifiedUtc": "2026-05-08T19:33:32.000Z",
+      "source": "csv"
+    },
+    {
+      "name": "SharedMailboxAccess.csv",
+      "size": 1581,
+      "modifiedUtc": "2026-05-08T19:33:33.000Z",
+      "source": "csv"
+    },
+    {
+      "name": "SharedMailboxes.csv",
+      "size": 1119,
+      "modifiedUtc": "2026-05-08T19:33:33.000Z",
+      "source": "csv"
+    },
+    {
+      "name": "customer_Tactical_v1b.pbix",
+      "size": 852192,
+      "modifiedUtc": "2026-05-08T19:48:26.000Z",
+      "source": "pbix"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+"MailboxDisplayName","MailboxPrimarySmtp","PermissionType","Grantee","AccessRights","Deny","Inherited"
+"Crash Test Dummy","CrashTestDummy@TestLabCorp.com","FullAccess","gr_user@65855t.onmicrosoft.com","FullAccess","False","False"
+"Crash Test Dummy","CrashTestDummy@TestLabCorp.com","SendAs","GCloud@65855t.onmicrosoft.com","SendAs",,
+"ITSecNotifications","ITSecNotifications@65855t.onmicrosoft.com","FullAccess","GCloud@65855t.onmicrosoft.com","FullAccess","False","False"
+"Test-Shared","Test-Shared@TestLabCorp.com","FullAccess","GCloud@65855t.onmicrosoft.com","FullAccess","False","False"
+"Test-Shared","Test-Shared@TestLabCorp.com","FullAccess","ScottS@TESTLABCORP.COM","FullAccess","False","False"
+"Test-Shared","Test-Shared@TestLabCorp.com","SendAs","GCloud@65855t.onmicrosoft.com","SendAs",,
+"Test-Shared","Test-Shared@TestLabCorp.com","SendAs","ScottS@TESTLABCORP.COM","SendAs",,
+"ZsharedMbx","ZsharedMbx@65855t.mail.onmicrosoft.com","FullAccess","CarlosH@TestLabCorp.com","FullAccess","False","False"
+"ZsharedMbx","ZsharedMbx@65855t.mail.onmicrosoft.com","FullAccess","DustinD@TestLabCorp.com","FullAccess","False","False"
+"ZsharedMbx","ZsharedMbx@65855t.mail.onmicrosoft.com","FullAccess","gr_user@65855t.onmicrosoft.com","FullAccess","False","False"
+"ZsharedMbx","ZsharedMbx@65855t.mail.onmicrosoft.com","SendAs","CarlosH@TestLabCorp.com","SendAs",,
+"ZsharedMbx","ZsharedMbx@65855t.mail.onmicrosoft.com","SendAs","DustinD@TestLabCorp.com","SendAs",,
+"ZsharedMbx","ZsharedMbx@65855t.mail.onmicrosoft.com","SendAs","gr_user@65855t.onmicrosoft.com","SendAs",,

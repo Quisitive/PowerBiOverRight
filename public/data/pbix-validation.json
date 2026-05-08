@@ -1,0 +1,21 @@
+{
+  "checkedAt": "2026-05-08T20:00:49.418Z",
+  "status": "PASSED",
+  "sourceRoot": "C:\\Users\\CFoulon\\OneDrive - Quisitive\\Greg Richards's files - PBIX files\\TLC_demoTactical",
+  "csvSourcePath": "C:\\Users\\CFoulon\\OneDrive - Quisitive\\Greg Richards's files - PBIX files\\TLC_demoTactical\\data",
+  "pbixFileName": "customer_Tactical_v1b.pbix",
+  "syncedPath": "C:\\Users\\CFoulon\\PowerBiOverRight\\public\\data",
+  "sourcePbixHash": "adb06bdfc38cb150b9f277590c0f1ec0a5b467e47492289fdb3ddf7364b052e2",
+  "syncedPbixHash": "adb06bdfc38cb150b9f277590c0f1ec0a5b467e47492289fdb3ddf7364b052e2",
+  "hasDataMashup": false,
+  "pbixEntryCount": 11,
+  "sourceCsvCount": 14,
+  "syncedCsvCount": 14,
+  "missingSourceCsv": [],
+  "missingSyncedCsv": [],
+  "missingCsvNamesInMashup": [],
+  "warnings": [
+    "PBIX package does not contain DataMashup entry; hash and file parity checks were used."
+  ],
+  "issues": []
+}

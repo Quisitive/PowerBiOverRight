@@ -1,0 +1,8 @@
+"UserPrincipalName","CreatedDateTime","DisplayName","Model","AttestationLevel","AaGuid"
+"CarlosH@TestLabCorp.com","12/15/2025 9:45:14 PM","Authenticator: Default Profile","Microsoft Authenticator - Android","attested","de1e552d-db1d-4423-a619-566b625cdc84"
+"ChristopheF@TestLabCorp.com","2/4/2025 3:38:01 PM","Authenticator - iOS","Microsoft Authenticator - iOS","attested","90a3ccdf-635c-4729-a248-9b709135078f"
+"GCloud@65855t.onmicrosoft.com","10/17/2024 6:34:59 PM","Authenticator - Android","Microsoft Authenticator - Android","notAttested","de1e552d-db1d-4423-a619-566b625cdc84"
+"gr_admin@65855t.onmicrosoft.com","10/17/2024 7:00:58 PM","Authenticator - Android","Microsoft Authenticator - Android","notAttested","de1e552d-db1d-4423-a619-566b625cdc84"
+"gr_admin@65855t.onmicrosoft.com","9/23/2022 7:41:56 PM","gr_admin_TLC_Bluetooth","Feitian AllinOne FIDO2 Authenticator","attested","12ded745-4bed-47d4-abaa-e713f51d6393"
+"KevinV@TestLabCorp.com","11/21/2024 9:07:38 PM","Authenticator - iOS","Microsoft Authenticator - iOS","attested","90a3ccdf-635c-4729-a248-9b709135078f"
+"ScottS@TESTLABCORP.COM","3/24/2026 7:53:21 PM","Authenticator - iOS","Microsoft Authenticator - iOS","attested","90a3ccdf-635c-4729-a248-9b709135078f"

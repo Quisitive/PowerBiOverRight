@@ -1,0 +1,5 @@
+"DisplayName","Alias","PrimarySmtpAddress","UserPrincipalName","ExternalDirectoryObjectId","WhenCreated","HiddenFromAddressListsEnabled","EntraUserPrincipalName","AccountEnabled","BlockedFromSignIn","LastInteractiveSignIn","LastNonInteractiveSignIn","SignInDataSource"
+"Crash Test Dummy","CrashTestDummy","CrashTestDummy@TestLabCorp.com","CrashTestDummy@TestLabCorp.com","582b2d1a-7783-484b-9742-8b1cc69788c7",,,"CrashTestDummy@TestLabCorp.com","True","False","8/15/2023 7:17:40 PM","8/15/2023 7:17:45 PM","user.signInActivity"
+"ITSecNotifications","ITSecNotifications","ITSecNotifications@65855t.onmicrosoft.com","ITSecNotifications@TestLabCorp.com","e21bb436-d2bb-4301-ac53-69625bf696a8",,,"ITSecNotifications@TestLabCorp.com","True","False",,,"none"
+"Test-Shared","TestShared","Test-Shared@TestLabCorp.com","TestShared@TestLabCorp.com","7735eeeb-545d-4c10-9865-5a0d3e5a86b4",,,"TestShared@TestLabCorp.com","False","True",,,"none"
+"ZsharedMbx","ZShared","ZsharedMbx@65855t.mail.onmicrosoft.com","ZShared@TestLabCorp.com","10508d54-9d50-4b96-a083-ade2c19ad278",,,"ZShared@TestLabCorp.com","False","True",,,"none"
