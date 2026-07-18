@@ -15,7 +15,7 @@
     "validate": "npm run lint && npm run test && npm run build && npm run validate:pbix"
   },
   "dependencies": {
-    "adm-zip": "^0.5.17",
+    "adm-zip": "^0.6.0",
     "papaparse": "^5.5.3",
     "react": "^19.2.5",
     "react-dom": "^19.2.5"
